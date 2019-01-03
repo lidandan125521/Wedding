@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/message",
+    "pages/profile/profile",
+    "pages/product/product",
+    "pages/shoplist/shoplist"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ff6699",
+    "navigationBarTitleText": "CHUMUSE",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pages/static/home.png",
+        "selectedIconPath": "pages/static/home-active.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "留言板",
+        "iconPath": "pages/static/message.png",
+        "selectedIconPath": "pages/static/message-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "个人中心",
+        "iconPath": "pages/static/profile.png",
+        "selectedIconPath": "pages/static/profile-active.png"
+      }
+    ]
+  }
+}

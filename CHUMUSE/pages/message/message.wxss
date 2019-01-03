@@ -1,0 +1,18 @@
+/* pages/message/message.wxss */
+page{
+  background: #f1f1f1;
+}
+.card{
+  background: #fff;
+  border-radius: 20rpx;
+  margin:60rpx 20rpx;
+  padding:30rpx;
+  display:flex;
+  flex-direction: column;
+} 
+.msg{
+  text-align: center;
+  margin-top:30rpx;
+  font-size: 50rpx;
+  color:#CD6889;
+}

@@ -1,0 +1,9 @@
+<!--pages/message/message.wxml-->
+<view class="msg">留下你们爱的宣言！</view>
+<view class="card">
+<text class="card-title">年终大奖</text>
+<text class="card-date">2018-12-25</text>
+<image src="" class="card-img"></image>
+<text class="card-desc">我看过最美的风景 是你</text>
+<text class="card-rad arrow">查看详细</text>
+</view>
